@@ -54,4 +54,4 @@ Read the full project breakdown and results here:
 ---
 
 **Author:** Ekin Cem Çelikdemir · Berlin, Germany  
-📧 [LinkedIn](https://linkedin.com/in/ekincelikdemir) | [Medium](https://medium.com/@ekincelikdemir)
+📧 [LinkedIn](https://linkedin.com/in/ekincemcelikdemir) | [Medium](https://medium.com/@ekincelikdemir)
